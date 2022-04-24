@@ -5,3 +5,8 @@
     font-weight: 600;
     border-radius:10px;
 }
+.userName{
+    padding: 10px;
+    border: 2px;
+    margin-left: 15px;
+}
